@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! I'm git-innit</h2>
+<h1 align="center">Hi 👋! I'm git-innit</h2>
 
 <h3 align="center">git isn't it?</h3>
 
